@@ -31,7 +31,7 @@ console.log(user)
             <div class="card-body">
               <div class="row">
                 <div class="col-md-3">
-                    <img class="thumbnail" src="${user.avatar_url}">
+                    <img src="${user.avatar_url}" class="thumbnail" style="height:50%" >
 
                 </div>
                 <div class="col-md-9"
